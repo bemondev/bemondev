@@ -2,8 +2,6 @@
 
 I'm a Computer Science student from Uruguay, currently studying at UTEC. I'm passionate about web development, cloud computing, networking, and creating highly interactive digital experiences. I enjoy building immersive interfaces using modern tools like React, Next.Js, and Tailwind.
 
----
-
 ## 🛠️ Tech Stack
 ### 📕 Languages I've used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
@@ -27,9 +25,7 @@ I'm a Computer Science student from Uruguay, currently studying at UTEC. I'm pas
 ![Tauri](https://img.shields.io/badge/-Tauri-333?style=flat&logo=tauri)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 
---- 
 ## 📫 Let's connect!
-
 - 🔗 [LinkedIn](https://linkedin.com/in/bernardo-montaña)
 - 🌐 [Portfolio Website](https://portfolio-bemondevs-projects.vercel.app/)
 - 📬 Email: bemondev@gmail.com
